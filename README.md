@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Indian 🙈🙉🙊 
+### I'm Lucky bcoz i'm an Indian 🙈🙉🙊 
 <!--
 **taruntiwarihp/TarunTiwariHp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 
 Tarun Tiwari, [18.08.20 11:18]
 -->
-##### Indian 
+ 
 * 🔭 I’m currently working on Deep Learning
-* 🌱 I'm Serious Learner, print("Hello World") and i Like Kaggle but not more than Tea
+* 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
 * 💬 Ask me about Python🐍, Machine learning 🤖, Flask⚗️, C😄, C++😳, Java😶, HTML😏 and Statistics📚  
-* ⚡ Fun fact: I know how to make a nice Tea ☕
+* ⚡ Fun fact: I know how to make Meggie  ☕
 <hr style="border: 2px solid red;" />
 
 Follow me there for more updates 😄
