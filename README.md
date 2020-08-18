@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href='https://twitter.com/TarunTiwari_hp>
-<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_twitter_834708%20(1).png',alt="Click_me">
+<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_twitter_834708%20(1).png'>
 </a>
