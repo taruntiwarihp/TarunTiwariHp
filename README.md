@@ -5,17 +5,18 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Deep Learning
-🌱 I'm Serious Learner, print("Hello World")
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-💬 Ask me about Python🐍, Machine learning 🤖, Flask⚗️, C😄, C++😳, Java😶, HTML😏 and Statistics📚  
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-⚡ Fun fact: I know how to make Tea ☕
+
 Tarun Tiwari, [18.08.20 11:18]
 -->
-
+🔭 I’m currently working on Deep Learning
+🌱 I'm Serious Learner, print("Hello World")
+💬 Ask me about Python🐍, Machine learning 🤖, Flask⚗️, C😄, C++😳, Java😶, HTML😏 and Statistics📚  
+⚡ Fun fact: I know how to make Tea ☕
 <hr style="border: 2px solid red;" />
 
 Follow me there for more updates 😄
