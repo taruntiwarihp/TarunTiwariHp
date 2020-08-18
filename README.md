@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 Tarun Tiwari, [18.08.20 11:18]
 -->
+
+<hr style="border: 2px solid red;" />
 #### Follow me there for more updates 😄
 
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_189_Kaggle_logo_logos_4373210.png'>](https://www.kaggle.com/taruntiwarihp)
