@@ -17,10 +17,10 @@ Tarun Tiwari, [18.08.20 11:18]
 * 🔭 I’m currently working on Deep Learning
 * 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
 * 💬 Ask me about Python🐍, Machine learning 🤖, Flask⚗️, C😄, C++😳, Java😶, HTML😏 and Statistics📚  
-* ⚡ Fun fact: I know how to make Meggie  ☕
+* ⚡ Fun fact: I know how to make Meggie in 1 min☕
 <hr style="border: 2px solid red;" />
 
-Follow me there for more updates 😄
+Follow me here for more updates 😄
 
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_189_Kaggle_logo_logos_4373210.png'>](https://www.kaggle.com/taruntiwarihp)
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_linkedin_834713.png'>](https://www.linkedin.com/in/tarun-tiwari-3170a8120/)
