@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Tarun Tiwari, [18.08.20 11:18]
+-->
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_189_Kaggle_logo_logos_4373210.png'>](https://www.kaggle.com/taruntiwarihp)
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_linkedin_834713.png'>](https://www.linkedin.com/in/tarun-tiwari-3170a8120/)
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_mail-24_103176.png'>](https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/mail.txt)
