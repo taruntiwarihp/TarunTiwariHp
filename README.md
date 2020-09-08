@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 Tarun Tiwari, [18.08.20 11:18]
 -->
 ### Hello there 👋
-### I'm Lucky bcoz i'm an Indian 😘💕  
+### I'm Lucky bcoz i'm an Indian 💕😘💕  
 * 🔭 I’m currently working on Deep Learning
 * 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
 * 💬 Ask me about Python🐍, Machine learning 🤖, Flask⚗️, C📚, C++😳, Java😶 and HTML😏   
