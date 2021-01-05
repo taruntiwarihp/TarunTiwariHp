@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 
 Tarun Tiwari, [18.08.20 11:18]
 -->
-### Hello there 👋
-### I'm Indian 💕
+### Hello there 👋,  I'm Indian 💕
 
 **सर्वं परवशं दुःखं सर्वमात्मवशं सुखम्।**
 
@@ -21,12 +20,13 @@ Tarun Tiwari, [18.08.20 11:18]
 
 * 🔭 I’m currently learning Deep Learning
 * 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
-* 💬 Ask me about Python🐍, Machine learning 🤖, Flask⚗️, C📚, C++😳, Java😶, HTML😏 and PowerBI  
+* 💬 Ask me about Python🐍, Machine learning 🤖, Deep Learning🤖, Flask⚗️, C📚, C++😳, Java😶, HTML😏 and PowerBI  
 * ⚡ Fun fact: I know how to make Meggie in 1 min☕
 <hr style="border: 2px solid red;" />
 
 Follow me here for more updates 😄
 
+* 📫 How to reach me: 
 
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_youtube_317714.png'>](https://youtu.be/zKNXHluHneU)
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_189_Kaggle_logo_logos_4373210.png'>](https://www.kaggle.com/taruntiwarihp)
