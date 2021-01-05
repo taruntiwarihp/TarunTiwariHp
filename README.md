@@ -14,6 +14,10 @@ Tarun Tiwari, [18.08.20 11:18]
 -->
 ### Hello there 👋
 ### I'm Indian 💕
+
+**सर्वं परवशं दुःखं सर्वमात्मवशं सुखम्।
+एतद् विद्यात् समासेन लक्षणं सुखदुःखयोः॥**
+
 * 🔭 I’m currently learning Deep Learning
 * 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
 * 💬 Ask me about Python🐍, Machine learning 🤖, Flask⚗️, C📚, C++😳, Java😶, HTML😏 and PowerBI  
