@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 
 Tarun Tiwari, [18.08.20 11:18]
 -->
-### Hello there 👋,  I'm Indian 💕
 
 **सर्वं परवशं दुःखं सर्वमात्मवशं सुखम्।**
 
 **एतद् विद्यात् समासेन लक्षणं सुखदुःखयोः॥**
+
+### Hello there 👋,  I'm Indian 💕
 
 * 🔭 I’m currently learning Deep Learning
 * 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
