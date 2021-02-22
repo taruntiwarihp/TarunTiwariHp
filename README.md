@@ -25,7 +25,7 @@ Tarun Tiwari, [18.08.20 11:18]
 * ⚡ Fun fact: I know how to make Maggi in 1 min☕
 <hr style="border: 2px solid red;" />
 
-Follow me here for more updates 😄
+Follow me here for more updates. 😄
 
 * 📫 How to reach me: 
 
