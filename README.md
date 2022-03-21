@@ -21,7 +21,7 @@ Tarun Tiwari, [18.08.20 11:18]
 
 * 🔭 I’m currently learning Deep Learning
 * 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
-* 💬 Ask me about Python🐍, Machine learning 🤖, Deep Learning🤖, Django⚗️, C📚, C++😳, Java😶 and PowerBI😏  
+* 💬 Ask me about Python🐍, Machine learning 🤖, Deep Learning🤖, Flask⚗️, C📚, C++😳, Java😶 and PowerBI😏  
 * ⚡ Fun fact: I know how to make Maggi in 1 min☕
 <hr style="border: 2px solid red;" />
 
