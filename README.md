@@ -33,4 +33,4 @@ Follow me here for more updates. 😄
 <hr style="border: 2px solid red;" />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taruntiwarihp)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taruntiwarihp&theme=horizon)](https://git.io/streak-stats)
