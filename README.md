@@ -28,7 +28,7 @@ Tarun Tiwari, [18.08.20 11:18]
 <hr style="border: 2px solid red;" />
 
 Follow me here for more updates. 😄
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taruntiwarihp)](https://git.io/streak-stats)
+
 * 📫 How to reach me: 
 
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_youtube_317714.png'>](https://youtu.be/zKNXHluHneU)
@@ -39,3 +39,6 @@ Follow me here for more updates. 😄
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_mail-24_103176.png'>](https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/mail.txt)
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_25_social_2609558%20(2).png'>](https://www.instagram.com/tarun_tiwari.007/)
 <hr style="border: 2px solid red;" />
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taruntiwarihp)](https://git.io/streak-stats)
