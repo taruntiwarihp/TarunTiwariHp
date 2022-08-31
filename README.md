@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 Tarun Tiwari, [18.08.20 11:18]
 -->
-![](https://komarev.com/ghpvc/?username=taruntiwarihp&style=flat-square)
-![](https://komarev.com/ghpvc/?username=taruntiwarihp&color=green)
+![](https://komarev.com/ghpvc/?username=taruntiwarihp&style=plastic)
 
 **युक्ति युक्तं प्रगृह्णीयात् बालादपि विचक्षणः।**
 
