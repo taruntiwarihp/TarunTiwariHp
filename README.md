@@ -2,6 +2,7 @@
 <!--
 **taruntiwarihp/TarunTiwariHp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
 
 Tarun Tiwari, [18.08.20 11:18]
 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taruntiwarihp)](https://git.io/streak-stats)
 
 **युक्ति युक्तं प्रगृह्णीयात् बालादपि विचक्षणः।**
 
