@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 Tarun Tiwari, [18.08.20 11:18]
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taruntiwarihp)](https://git.io/streak-stats)
+
 
 **युक्ति युक्तं प्रगृह्णीयात् बालादपि विचक्षणः।**
 
@@ -28,7 +28,7 @@ Tarun Tiwari, [18.08.20 11:18]
 <hr style="border: 2px solid red;" />
 
 Follow me here for more updates. 😄
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taruntiwarihp)](https://git.io/streak-stats)
 * 📫 How to reach me: 
 
 [<img src='https://github.com/taruntiwarihp/TarunTiwariHp/blob/master/iconfinder_youtube_317714.png'>](https://youtu.be/zKNXHluHneU)
