@@ -15,16 +15,12 @@ Tarun Tiwari, [18.08.20 11:18]
 -->
 ![](https://komarev.com/ghpvc/?username=taruntiwarihp&style=plastic)
 
-**युक्ति युक्तं प्रगृह्णीयात् बालादपि विचक्षणः।**
 
-**रवेरविषयं वस्तु किं न दीपः प्रकाशयेत्॥**
-
-### Hello there 👋,  I'm Indian 💕
+### Hello there 👋
 
 * 🔭 I’m currently learning Deep Learning
 * 🌱 I'm Serious Learner, print("Hello World") and i like Kaggle but not more than Tea
 * 💬 Ask me about Python🐍, Machine learning 🤖, Deep Learning🤖, Flask⚗️, C📚, C++😳, Java😶 and PowerBI😏  
-* ⚡ Fun fact: I know how to make Maggi in 1 min☕
 <hr style="border: 2px solid red;" />
 
 Follow me here for more updates. 😄
