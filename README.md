@@ -1,7 +1,7 @@
 
 <!--
 **taruntiwarihp/TarunTiwariHp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=taruntiwarihp&style=flat-square)
+
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 Tarun Tiwari, [18.08.20 11:18]
 -->
-
+![](https://komarev.com/ghpvc/?username=taruntiwarihp&style=flat-square)
+![](https://komarev.com/ghpvc/?username=taruntiwarihp&color=green)
 
 **युक्ति युक्तं प्रगृह्णीयात् बालादपि विचक्षणः।**
 
